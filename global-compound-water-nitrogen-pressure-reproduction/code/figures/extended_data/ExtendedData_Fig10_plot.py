@@ -64,7 +64,7 @@ PERIOD_PRODUCTS = (
     DATA / "NPI_IPI_QIRR_strict_positiveQ_period_products_01pct.npz"
 )
 
-META = ROOT / "data" / "basin_metadata" / "HydroBASINS_level5_metadata_and_IPCC_assignment_landfrac_corrected.csv"
+META = ROOT / "data" / "basin_metadata" / "HydroBASINS_level5_metadata_and_IPCC_assignment.csv"
 
 OUT_TABLE = (
     TABLE_DIR

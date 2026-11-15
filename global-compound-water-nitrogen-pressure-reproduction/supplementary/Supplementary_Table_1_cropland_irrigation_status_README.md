@@ -4,4 +4,8 @@ The CSV reports cropland area in basins classified as Compound for the historica
 
 Areas are million km2. `irrigated_fraction_percent` uses the corresponding region and state total as its denominator. The three `share_of_global_*_percent` columns each use the global area for the same period, classification and state, but for total, rainfed and irrigated cropland separately. The eight African regions are SAH, WAF, CAF, NEAF, SEAF, WSAF, ESAF and MDG; MED is excluded. WAF is part of the Africa aggregate and must not be added to it.
 
-The table contains the primary basin classification. `Source_Data_rainfed_irrigated_by_region_member.csv` contains the complete IPCC AR6 regional results, the separate Q <= 0 state and each of the three independently classified ensemble members. Irrigated means the model-designated land-use category, not proof that irrigation water was applied in every year. The table does not decompose net cropland growth or rainfed-to-irrigated conversion.
+The table contains central estimates for Compound and Emerging Compound only.
+It does not contain member-wise regional results or the separate Q <= 0 state.
+Irrigated means the model-designated land-use category, not proof that
+irrigation water was applied in every year. The table does not decompose net
+cropland growth or rainfed-to-irrigated conversion.

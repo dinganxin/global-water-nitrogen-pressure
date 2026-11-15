@@ -578,7 +578,7 @@ def build_figure(
                 "spearman_rs": gnm_rho,
             },
         ]
-    ).to_csv(DATA / "ExtendedData_Fig07_updated_statistics_GRQA_v1.4.csv", index=False)
+    ).to_csv(DATA / "ExtendedData_Fig07_benchmark_statistics.csv", index=False)
     return summary
 
 

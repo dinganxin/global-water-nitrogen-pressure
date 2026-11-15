@@ -1,8 +1,10 @@
-# Water-NPI-IPI figure sources
+# Figure source data and plotting code
 
-This is the figure-only companion to `Water_NPI_IPI_analysis_and_figure_sources_20261114_v9`.
-It contains the final source inputs and plotting code for five main figures and
-ten Extended Data figures. Figure 1 is artwork created by the authors; no
+For *Agricultural development reshapes global hotspots of compound water–nitrogen pressure*.
+
+This archive contains the final source inputs and plotting code for five main
+figures and ten Extended Data figures in the accompanying manuscript. Figure 1
+is artwork created by the authors; no
 plotting script is claimed for it. The period products and CSVs are processed
 figure inputs, not raw CESM2-CLM5 simulation output. Analysis-rebuild and raw
 ingestion scripts are intentionally absent from this smaller archive.
@@ -65,19 +67,15 @@ without confirming redistribution rights.
 
 ## Scope and release checks
 
-The larger companion archive contains annual member-basin inputs and the
-analysis rebuild. This figure-only archive can reproduce plots from packaged
-processed inputs, but does not independently recreate the scientific results
-from raw simulations. Figure inputs, figure code and locked reference images
-were taken from the same version 9 complete archive; no numerical values or
-approved images were changed in preparing this smaller archive.
+This figure-only archive can reproduce plots from packaged processed inputs,
+but does not independently recreate the scientific results from raw
+simulations. It does not include annual member-basin inputs or analysis-rebuild
+scripts.
 
 The current land-fraction-adjusted benchmark values are GRQA v1.4
 `r_s = 0.44` (617 basins), African inland waters `r_s = 0.17` (44 basins), and
-IMAGE-GNM `r_s = 0.48` (2,166 basins). Before public release, align the
-manuscript's Discussion, Extended Data Fig. 7 caption and artwork with these
-values as described in `docs/MANUSCRIPT_ALIGNMENT_REQUIRED.md`. Record the
-repository DOI in the manuscript only after the final archive is deposited.
+IMAGE-GNM `r_s = 0.48` (2,166 basins). The benchmark inputs and processing
+limitations are documented in `docs/EXTERNAL_BENCHMARK_PROVENANCE.md`.
 
 Original code is licensed under `LICENSE-CODE`; author-owned results and
 figures under `LICENSE-DATA-AND-FIGURES.md`. Third-party rights are listed in

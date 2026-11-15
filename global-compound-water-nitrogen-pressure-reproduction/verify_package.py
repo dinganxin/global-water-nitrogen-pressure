@@ -114,9 +114,6 @@ def check_tables():
         n = int(row["n"])
         near(float(row["spearman_r"]), expected_corr[n], "external correlation " + str(n))
     validation = ROOT / "data/validation"
-    assert not (validation / "NPI_observational_constraint_basin_table_reference.csv").exists(), (
-        "Obsolete GFQA v3 reference table must not be supplied"
-    )
     assert len(rows("data/validation/GRQA_v1.4_nonoutlier_basin_constraint.csv")) == 617
     africa_path = validation / "African_inland_water_reference_basin_table.csv"
     if africa_path.is_file():

@@ -40,7 +40,7 @@ TABLE_DIR.mkdir(parents=True, exist_ok=True)
 REGION_TABLE = OUT / "tables" / "IPCC_AR6_region_class_summary_strict_positiveQ.csv"
 GLOBAL_TABLE = OUT / "tables" / "global_class_area_summary_strict_positiveQ.csv"
 PRODUCT_PATH = OUT / "data" / "NPI_IPI_QIRR_strict_positiveQ_period_products_01pct.npz"
-META_PATH = OUT / "data" / "basin_metadata" / "HydroBASINS_level5_metadata_and_IPCC_assignment_landfrac_corrected.csv"
+META_PATH = OUT / "data" / "basin_metadata" / "HydroBASINS_level5_metadata_and_IPCC_assignment.csv"
 
 NPI_THRESHOLD = 10.0
 IPI_THRESHOLD = 0.4

@@ -16,13 +16,12 @@ not the original CESM2 simulations or raw water-quality archives.
 | Extended Data Fig. 4 | `tables/low_positive_Q_sensitivity_strict_positiveQ.csv` |
 | Extended Data Fig. 5 | `data/extended_data/runoff_denominator_sensitivity_strict_positiveQ_01pct.npz`, map cache and tables in `tables/extended_data/ExtendedData_Fig05/` |
 | Extended Data Fig. 6 | `data/extended_data/HydroBASINS_levels3_to_6_sensitivity_effective_land_area.npz` and corresponding CSV in `tables/` |
-| Extended Data Fig. 7 | Packaged `data/validation/GRQA_v1.4_nonoutlier_basin_constraint.csv` plus African matched observations and IMAGE-GNM ranks recreated locally by `prepare_external_benchmarks.py` from the original downloads; the latter two inputs are not distributed in this archive |
+| Extended Data Fig. 7 | Packaged `data/validation/GRQA_v1.4_nonoutlier_basin_constraint.csv` and `data/validation/ExtendedData_Fig07_benchmark_statistics.csv`, plus African matched observations and IMAGE-GNM ranks recreated locally by `prepare_external_benchmarks.py` from the original downloads; the latter two inputs are not distributed in this archive |
 | Extended Data Fig. 8 | period products and member-agreement CSV in `tables/extended_data/` |
 | Extended Data Fig. 9 | annual global and component-substitution CSVs in `tables/extended_data/` |
 | Extended Data Fig. 10 | regional time-series and summary CSVs in `tables/extended_data/`, basin metadata |
 
 The duplicated period-product NPZ at `data/` and `data/core/` is intentional:
-different plotting entry points reference these exact paths. Likewise, two
-identical basin metadata CSVs are kept because separate scripts expect their
-original names. Do not remove either copy without updating and retesting the
-code.
+different plotting entry points reference these exact paths. All figures that
+use basin metadata read the same
+`data/basin_metadata/HydroBASINS_level5_metadata_and_IPCC_assignment.csv`.
