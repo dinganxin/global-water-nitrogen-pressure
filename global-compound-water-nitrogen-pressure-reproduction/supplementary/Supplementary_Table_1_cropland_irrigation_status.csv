@@ -1,0 +1,21 @@
+period,classification,state,region_code,region_name,total_million_km2,rainfed_million_km2,irrigated_million_km2,irrigated_fraction_percent,share_of_global_total_percent,share_of_global_rainfed_percent,share_of_global_irrigated_percent
+historical,central,Compound,GLOBAL,Global,1.064040,0.655338,0.408702,38.410376,100.000000,100.000000,100.000000
+historical,central,Compound,AFRICA,Eight African IPCC AR6 regions,0.037628,0.035224,0.002404,6.388512,3.536296,5.374898,0.588166
+historical,central,Compound,SAS,South Asia,0.446343,0.260674,0.185669,41.597903,41.947966,39.776979,45.429064
+historical,central,Compound,WAF,Western Africa,0.006848,0.006106,0.000742,10.829241,0.643586,0.931797,0.181450
+ssp126,central,Compound,GLOBAL,Global,1.265151,0.747413,0.517738,40.923010,100.000000,100.000000,100.000000
+ssp126,central,Compound,AFRICA,Eight African IPCC AR6 regions,0.068941,0.066465,0.002476,3.591253,5.449203,8.892647,0.478202
+ssp126,central,Compound,SAS,South Asia,0.540570,0.273905,0.266665,49.330392,42.727678,36.647004,51.505818
+ssp126,central,Compound,WAF,Western Africa,0.026956,0.026074,0.000882,3.271388,2.130616,3.488525,0.170322
+ssp126,central,Emerging Compound,GLOBAL,Global,0.367779,0.273773,0.094005,25.560282,100.000000,100.000000,100.000000
+ssp126,central,Emerging Compound,AFRICA,Eight African IPCC AR6 regions,0.028338,0.027360,0.000978,3.451050,7.705144,9.993638,1.040319
+ssp126,central,Emerging Compound,SAS,South Asia,0.111569,0.068946,0.042623,38.203250,30.335890,25.183591,45.341034
+ssp126,central,Emerging Compound,WAF,Western Africa,0.026956,0.026074,0.000882,3.271388,7.329277,9.523824,0.938053
+ssp370,central,Compound,GLOBAL,Global,1.706779,1.010951,0.695828,40.768498,100.000000,100.000000,100.000000
+ssp370,central,Compound,AFRICA,Eight African IPCC AR6 regions,0.369511,0.280033,0.089478,24.215192,21.649590,27.699957,12.859169
+ssp370,central,Compound,SAS,South Asia,0.721722,0.394387,0.327336,45.354818,42.285635,39.011440,47.042627
+ssp370,central,Compound,WAF,Western Africa,0.178676,0.143973,0.034703,19.422306,10.468602,14.241337,4.987291
+ssp370,central,Emerging Compound,GLOBAL,Global,0.803512,0.533105,0.270407,33.653104,100.000000,100.000000,100.000000
+ssp370,central,Emerging Compound,AFRICA,Eight African IPCC AR6 regions,0.330085,0.241604,0.088481,26.805418,41.080229,45.320133,32.721281
+ssp370,central,Emerging Compound,SAS,South Asia,0.256696,0.142172,0.114524,44.614710,31.946815,26.668672,42.352641
+ssp370,central,Emerging Compound,WAF,Western Africa,0.178676,0.143973,0.034703,19.422306,22.236868,27.006471,12.833623

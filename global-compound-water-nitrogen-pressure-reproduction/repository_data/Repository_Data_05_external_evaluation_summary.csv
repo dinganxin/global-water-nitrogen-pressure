@@ -1,0 +1,4 @@
+comparison,evidence_type,spearman_r,n
+Historical NPI versus GRQA v1.4 basin-median nitrate-N,observational comparison,0.43605,617
+Historical NPI versus African inland-water nitrate-N,regional observational comparison,0.16710,44
+Modelled nitrate-N loss yield versus IMAGE-GNM agricultural diffuse N-load yield,independent model benchmark,0.47977,2166
