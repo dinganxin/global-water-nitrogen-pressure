@@ -1,11 +1,21 @@
-# Figure source data and plotting code
+# Agricultural development reshapes global hotspots of compound water–nitrogen pressure
 
-For *Agricultural development reshapes global hotspots of compound water–nitrogen pressure*.
+## Authors
+
+Anxin Ding<sup>1,†</sup> ([danxin@whu.edu.cn](mailto:danxin@whu.edu.cn)) and
+Yi Yao<sup>2,†,*</sup> ([yi.yao@env.ethz.ch](mailto:yi.yao@env.ethz.ch)).
+
+1. School of Geographical Sciences, School of Carbon Neutrality Future Technology, Fujian Normal University, Fuzhou, China.
+2. Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland.
+
+† These authors contributed equally.  
+\* Corresponding author: Yi Yao.
+
+The complete author list is given in the manuscript.
 
 This archive contains the final source inputs and plotting code for four plotted
 main figures (Figs. 2-5) and ten Extended Data figures in the accompanying
-manuscript. Figure 1 is author-created artwork and is not included in this
-plotting archive. The period products and CSVs are processed
+manuscript. The period products and CSVs are processed
 figure inputs, not raw CESM2-CLM5 simulation output. Analysis-rebuild and raw
 ingestion scripts are intentionally absent from this smaller archive.
 
