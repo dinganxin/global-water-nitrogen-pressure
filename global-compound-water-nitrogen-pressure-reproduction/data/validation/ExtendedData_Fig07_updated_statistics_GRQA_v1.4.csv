@@ -1,4 +1,0 @@
-comparison,n,selection,spearman_rs
-Historical NPI vs GRQA v1.4,617,1985-2014; >=1 valid year; official IQR outliers excluded,0.4360510237953189
-Historical NPI vs African inland waters,44,Existing independently processed comparison,0.16709538753810907
-Modelled nitrate-N loss vs IMAGE-GNM,2166,Common positive agricultural domain,0.47976967904353607
