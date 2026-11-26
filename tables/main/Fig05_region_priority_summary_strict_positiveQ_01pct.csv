@@ -1,0 +1,44 @@
+﻿region_code,region_name,compound_ssp126_million_km2,compound_ssp370_million_km2,region_name_pretty,ssp3_minus_ssp1_million_km2
+SAS,S.Asia,0.540569824208,0.7217223668000001,South Asia,0.1811525425920001
+WCA,W.C.Asia,0.247116674368,0.239061767948,W. Central Asia,-0.008054906420000008
+WAF,Western-Africa,0.026955518464000003,0.17867590656,Western Africa,0.15172038809599997
+MED,Mediterranean,0.164739635328,0.112820979392,Mediterranean,-0.05191865593600001
+CNA,C.North-America,0.09103756620799999,0.085407149056,C. North America,-0.005630417151999995
+EAS,E.Asia,0.056877927424,0.064150673152,East Asia,0.007272745728000005
+SAH,Sahara,0.002137544552,0.05759510351200001,Sahara,0.05545755896000001
+ESAF,E.Southern-Africa,0.0,0.053755876864,E. Southern Africa,0.053755876864
+WSAF,W.Southern-Africa,0.0,0.040057690992,W. Southern Africa,0.040057690992
+NEAF,N.Eastern-Africa,0.039847604224,0.039426109439999996,N. Eastern Africa,-0.00042149478400000523
+NCA,N.Central-America,0.015539989248,0.027640633728000002,N. Central America,0.012100644480000002
+ARP,Arabian-Peninsula,0.01216568159,0.0245670974,Arabian Peninsula,0.012401415810000002
+CAR,Caribbean,0.022176442368,0.023762624768,Caribbean,0.0015861824000000004
+SWS,S.W.South-America,0.0,0.011757821056,S.W.South America,0.011757821056
+ECA,E.C.Asia,0.008266290368,0.010274995775999999,E.C.Asia,0.0020087054079999996
+ESB,E.Siberia,0.015141477376,0.009068737536,E.Siberia,-0.006072739840000001
+WSB,W.Siberia,0.017754103744,0.006611056192,W.Siberia,-0.011143047552000001
+WNA,W.North-America,0.0,0.00042250419199999997,W.North America,0.00042250419199999997
+NAU,N.Australia,0.0,0.0,N.Australia,0.0
+NEN,N.E.North-America,0.0,0.0,N.E.North America,0.0
+CAU,C.Australia,0.0,0.0,C.Australia,0.0
+WCE,West&Central-Europe,0.0,0.0,West&Central Europe,0.0
+EAU,E.Australia,0.0,0.0,E.Australia,0.0
+EEU,E.Europe,0.004825144832,0.0,E.Europe,-0.004825144832
+TIB,Tibetan-Plateau,0.0,0.0,Tibetan Plateau,0.0
+ENA,E.North-America,0.0,0.0,E.North America,0.0
+SSA,S.South-America,0.0,0.0,S.South America,0.0
+SES,S.E.South-America,0.0,0.0,S.E.South America,0.0
+SEAF,S.Eastern-Africa,0.0,0.0,S.Eastern Africa,0.0
+SEA,S.E.Asia,0.0,0.0,S.E.Asia,0.0
+SCA,S.Central-America,0.0,0.0,S.Central America,0.0
+SAU,S.Australia,0.0,0.0,S.Australia,0.0
+GIC,Greenland/Iceland,0.0,0.0,Greenland/Iceland,0.0
+SAM,South-American-Monsoon,0.0,0.0,South American Monsoon,0.0
+MDG,Madagascar,0.0,0.0,Madagascar,0.0
+RFE,Russian-Far-East,0.0,0.0,Russian Far East,0.0
+NZ,New-Zealand,0.0,0.0,New Zealand,0.0
+NWS,N.W.South-America,0.0,0.0,N.W.South America,0.0
+NWN,N.W.North-America,0.0,0.0,N.W.North America,0.0
+CAF,Central-Africa,0.0,0.0,Central Africa,0.0
+NEU,N.Europe,0.0,0.0,N.Europe,0.0
+NES,N.E.South-America,0.0,0.0,N.E.South America,0.0
+NSA,N.South-America,0.0,0.0,N.South America,0.0
